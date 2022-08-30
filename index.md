@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- No Tests/ major projects
+- Learn useful coding skills
+- Be better equipped to handle upper level cs courses
+- Instructors are chill
 
 1. Numbered
 2. List
