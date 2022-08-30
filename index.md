@@ -1,3 +1,9 @@
+# Saket's First CS 193 Homework
+- No Tests/ major projects
+- Learn useful coding skills
+- Be better equipped to handle upper level cs courses
+- Instructors are chill
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Saket's First CS 193 Homework
+
 ## Header 2
 ### Header 3
 
